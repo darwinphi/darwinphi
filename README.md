@@ -8,7 +8,7 @@ I ❤️ exploring new technologies.
 
 <img src="https://img.shields.io/badge/docker-lightblue?logo=docker&style=for-the-badge"> <img src="https://img.shields.io/badge/kubernetes-white?logo=kubernetes&style=for-the-badge"> 
 
-## 💬 Lets connect 
+## 💬 Let's connect 
 <img src="https://img.shields.io/github/followers/darwinphi?style=social"> <img src="https://img.shields.io/twitter/follow/darwinmanalophi?style=social">
 
 <!-- 
