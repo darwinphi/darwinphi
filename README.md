@@ -1,4 +1,4 @@
-# Hello, I'm Darwin Manalo. 🇵🇭👋🏼
+# Hello, I'm Darwin. 🇵🇭👋🏼
 I ❤️ exploring new technologies.
 
 ## 🔧 Tech
@@ -9,7 +9,7 @@ I ❤️ exploring new technologies.
 <img src="https://img.shields.io/badge/docker-lightblue?logo=docker&style=for-the-badge"> <img src="https://img.shields.io/badge/kubernetes-white?logo=kubernetes&style=for-the-badge"> 
 
 ## 💬 Let's connect 
-<img src="https://img.shields.io/github/followers/darwinphi?style=social"> <img src="https://img.shields.io/twitter/follow/darwinmanalophi?style=social">
+<img src="https://img.shields.io/github/followers/darwinphi?style=for-the-badge"> <img src="https://img.shields.io/twitter/follow/darwinmanalophi?style=for-the-badge">
 
 <!-- 
 **darwinphi/darwinphi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
