@@ -1,5 +1,5 @@
 ### Hi bb 👋
-I'm Darwin Manalo. 🦄 
+I'm Darwin Manalo. I love exploring new technologies. 
 <!--
 **darwinphi/darwinphi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
