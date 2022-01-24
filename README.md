@@ -2,7 +2,7 @@
 Hello 🇵🇭 I'm Darwin. 🔭 I love exploring new technologies
 ```
 
-<img src="https://leftoversalad.com/c/015_programmingpeople/PP4.png" width="300"> <img src="https://leftoversalad.com/c/015_programmingpeople/elixir.png" width="300"> <img src="https://leftoversalad.com/c/015_programmingpeople/PP9.png" width="300">
+<img src="https://leftoversalad.com/c/015_programmingpeople/PP4.png" width="250"> <img src="https://leftoversalad.com/c/015_programmingpeople/elixir.png" width="250"> <img src="https://leftoversalad.com/c/015_programmingpeople/PP9.png" width="250">
 
 
 <!--
