@@ -1,5 +1,5 @@
 # Hello, I'm Darwin Manalo. 🇵🇭👋🏼
-🛸 I love exploring new technologies.
+I ❤️ exploring new technologies.
 
 ## 🔧 Tech
 <img src="https://leftoversalad.com/c/015_programmingpeople/PP4.png" width="260"> <img src="https://leftoversalad.com/c/015_programmingpeople/elixir.png" width="260"> <img src="https://leftoversalad.com/c/015_programmingpeople/PP9.png" width="260">
