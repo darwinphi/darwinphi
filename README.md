@@ -1,5 +1,10 @@
-### Hi bb 👋
-I'm Darwin Manalo. I love exploring new technologies. 
+```
+Hello 🇵🇭 I'm Darwin. 🔭 I love exploring new technologies
+```
+
+<img src="https://leftoversalad.com/c/015_programmingpeople/PP4.png" width="300"> <img src="https://leftoversalad.com/c/015_programmingpeople/elixir.png" width="300"> <img src="https://leftoversalad.com/c/015_programmingpeople/PP9.png" width="300">
+
+
 <!--
 **darwinphi/darwinphi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
