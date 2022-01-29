@@ -10,8 +10,6 @@ I ❤️ exploring new technologies.
 
 <img src="https://img.shields.io/badge/docker-lightblue?logo=docker&style=for-the-badge"> <img src="https://img.shields.io/badge/kubernetes-white?logo=kubernetes&style=for-the-badge"> <img src="https://img.shields.io/badge/google-red?logo=google&logoColor=white&style=for-the-badge"> 
 
-### 👁️👄👁️
-<img src="https://i.redd.it/6gfczwcvbon71.jpg" width="500"> 
 
 ## 💬 Let's connect 
 <img src="https://img.shields.io/github/followers/darwinphi?style=for-the-badge"> <img src="https://img.shields.io/twitter/follow/darwinmanalophi?style=for-the-badge">
